@@ -10,7 +10,7 @@
 
 Скриншоты работы программы:
 
-![Скриншот](https://sun9-59.userapi.com/impg/ZQT0jpCdT7S6eLi_ynEPjleodk4JaMNP0c9SHQ/KuRmKgnhsVQ.jpg?size=979x512&quality=96&proxy=1&sign=2d6fd3c383fb90a5154efdec6a673e20)
+![Скриншот](https://sun9-23.userapi.com/impg/s90a5o1Hfus0nUOAfDOZDtB7Hxf5BEnTCCPrRA/pxc1hDRJaoE.jpg?size=979x512&quality=96&proxy=1&sign=aaf46bcb6f90365bcf7a6c9fe0afb24f)
 
 ![Скриншот](https://sun9-11.userapi.com/impg/zrjvGjv6h36bqWHI7ltCadY58JvJ-emQFeM7rQ/u4bg3QuCp1I.jpg?size=979x512&quality=96&proxy=1&sign=2862fc01a8b541897cbb6b1bd2aa867e)
 
